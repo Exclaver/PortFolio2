@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/PortFolio2/static/css/main.dc1b8f70.css",
-    "main.js": "/PortFolio2/static/js/main.41b6a42e.js",
+    "main.css": "/PortFolio2/static/css/main.00ccf920.css",
+    "main.js": "/PortFolio2/static/js/main.fe978ec0.js",
     "static/js/787.1ed0c42c.chunk.js": "/PortFolio2/static/js/787.1ed0c42c.chunk.js",
-    "static/media/Netflix.png": "/PortFolio2/static/media/Netflix.cb882db487b0cabdfd4c.png",
+    "static/media/Netflix.png": "/PortFolio2/static/media/Netflix.2703157bf8e6f06598e2.png",
     "static/media/color-sharp.png": "/PortFolio2/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/PortFolio2/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
     "static/media/Extention.png": "/PortFolio2/static/media/Extention.5b4b94f41a702ce523ef.png",
@@ -26,12 +26,12 @@
     "static/media/arrow2.svg": "/PortFolio2/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
     "static/media/arrow1.svg": "/PortFolio2/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "static/media/nav-icon2.svg": "/PortFolio2/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
-    "main.dc1b8f70.css.map": "/PortFolio2/static/css/main.dc1b8f70.css.map",
-    "main.41b6a42e.js.map": "/PortFolio2/static/js/main.41b6a42e.js.map",
+    "main.00ccf920.css.map": "/PortFolio2/static/css/main.00ccf920.css.map",
+    "main.fe978ec0.js.map": "/PortFolio2/static/js/main.fe978ec0.js.map",
     "787.1ed0c42c.chunk.js.map": "/PortFolio2/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dc1b8f70.css",
-    "static/js/main.41b6a42e.js"
+    "static/css/main.00ccf920.css",
+    "static/js/main.fe978ec0.js"
   ]
 }
