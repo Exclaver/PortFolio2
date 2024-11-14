@@ -85,7 +85,7 @@ export const NavBar = () => {
             </Nav>
             <span className="navbar-text ms-right">
               <div className="social-icon">
-                <a href="#">
+                <a href="https://www.instagram.com/its.devansh_m/profilecard/?igsh=ZmFtZjc5NTN4aGk4">
                   <img src={navIcon1} alt="" />
                 </a>
                 <a href="#">
